@@ -1,0 +1,23 @@
+.message {
+  background: #46d5dc;
+  color: black;
+  padding: 1em;
+  border-radius: 1em;
+  max-width: 60%;
+}
+
+.message-sender {
+  height: 50px;
+  width: 50px;
+  margin-right: 0.5em;
+  border: 2px solid #e5e6ea;
+  border-radius: 25%;
+  text-align: center;
+  font-size: 1.25rem;
+  padding-top: 0.5em;
+}
+
+.self-message {
+  background: #58bf56;
+  color: white
+}
